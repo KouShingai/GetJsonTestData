@@ -1,3 +1,8 @@
+# What is this App?
+This app was based on [Create React App](https://github.com/facebook/create-react-app).
+You can get a json test data from jsonplaceholder by this app.
+If you want to get another json data from another API, you can customize this app to get another json data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
